@@ -8,5 +8,5 @@ Le code de IMU_Classifier repose sur l'uilisation de la librairie TensorFlow_Lit
 Projet 2 : 
 A l'aide de la plateforme Edge Impulse et Arduino ce projet permet de détecter les mots suivants: résistance, transistor, FPGA, microcontrôleur.
 Puis la led L clignotera à chaque fois qu’on prononce un mot particulier.
-Ce projet se compose des enregistrements d'entrainement pour la reconnaissance des mots 
+
 
